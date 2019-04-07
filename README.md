@@ -10,6 +10,6 @@
   remove_grass_door
   ![image](https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/remove_grass_door.png?raw=true)
   remove_tree_1
-  ![image](https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/remove_tree_1.PNG?raw=true)
+  ![image](https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/remove_tree_1.png?raw=true)
   remove_tree_2
-  ![image](https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/remove_tree_2.PNG?raw=true)
+  ![image](https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/remove_tree_2.png?raw=true)
